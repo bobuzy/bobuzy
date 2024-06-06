@@ -4,7 +4,7 @@
 ## About me
 I'm a software engineer and UI designer based in Lagos, Nigeria, I specialize in crafting stunning modern websites using WordPress and Figma. Beyond my professional expertise, I am also a dedicated student, versatile freelancer, passionate gearhead, and fitness enthusiast. In every facet of my life, whether it's coding, designing, learning, freelancing, or pursuing my hobbies, I am grateful for the opportunity to contribute to making the world a more aesthetically pleasing and functional place every single day.
 
-- 🌱 I’m currently learning phthon with ALX
+- 🌱 I’m currently learning Software Engineering with ALX
 
 ## My Skills and Experience
 * C
