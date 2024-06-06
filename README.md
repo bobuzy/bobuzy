@@ -13,6 +13,7 @@ I'm a software engineer and UI designer based in Lagos, Nigeria, I specialize in
 * CSS
 * Wordpress
 * Shell
+* Python
 
 
 <!--
